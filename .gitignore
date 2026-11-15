@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+
+# Build and packaged binaries
+build/
+dist/
+*.spec
+
+# Local output / scratch files
+*.log
+.DS_Store
